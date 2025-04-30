@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 
+- CSIE @ NTUST  
+- Core Team @ 2023 Google Developer Groups On Campus, NTUST  
+- Passionate about computer vision, LLMs, and open source contributions  
 
 <!--
 **tongyu0924/tongyu0924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
