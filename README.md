@@ -2,7 +2,7 @@
 #### About Me
 - Name: Chia-Hsuan Hsu (tongyu, @tongyu0924)
 - CSIE @ NTUST  
-- Core Team @ 2023 Google Developer Groups On Campus, NTUST  
+- Core Team @ Google Developer Groups (GDG) On Campus NTUST, 2023
 - Passionate about Computer Vision, LLMs, and Open Source Contributions  
 
 <!--
