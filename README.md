@@ -5,6 +5,7 @@
 - Core Team @ Google Developer Groups (GDG) On Campus NTUST, 2023
 - Passionate about Computer Vision (CV), Large Language Models (LLMs), and Multimodal Learning
 - Contribute actively to open-source projects
+- Feel free to contact me!
 
 <!--
 **tongyu0924/tongyu0924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
