@@ -5,6 +5,7 @@
 - Core Team @ Google Developer Groups (GDG) On Campus NTUST, 2023
 - Passionate about Computer Vision (CV), Large Language Models (LLMs), and Multimodal Learning
 - Contribute actively to open-source projects
+- Fun fact: Interested in music — especially K-pop, J-pop, and guitar.
 - Feel free to contact me!
 
 <!--
