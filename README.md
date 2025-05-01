@@ -6,7 +6,11 @@
 - Passionate about Computer Vision (CV), Large Language Models (LLMs), and Multimodal Learning
 - Contribute actively to open-source projects
 - Feel free to contact me!
+
+<br>
+
 ![The Turing Way Badge](https://img.shields.io/badge/Contributor-The%20Turing%20Way-blue)
+
 <!--
 **tongyu0924/tongyu0924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
