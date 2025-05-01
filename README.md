@@ -7,6 +7,7 @@
 - Contribute actively to open-source projects
 - Feel free to contact me!
 <br>
+![Microsoft Badge](https://img.shields.io/badge/Contributed-Microsoft-blue)
 
 ![Hugging Face Badge](https://img.shields.io/badge/Contributed-Hugging%20Face-blue)
 
