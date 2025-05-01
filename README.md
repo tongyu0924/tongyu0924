@@ -8,6 +8,8 @@
 - Feel free to contact me!
 <br>
 
+![Hugging Face Contributor Badge](https://img.shields.io/badge/Contributor-Hugging%20Face-blue)
+
 ![The Turing Way Badge](https://img.shields.io/badge/Contributor-The%20Turing%20Way-blue)
 
 <!--
