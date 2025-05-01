@@ -8,10 +8,6 @@
 - Feel free to contact me!
 <br>
 
-![Microsoft Badge](https://img.shields.io/badge/Contributed-Microsoft-blue)
-
-![Hugging Face Badge](https://img.shields.io/badge/Contributed-Hugging%20Face-blue)
-
 ![The Turing Way Badge](https://img.shields.io/badge/Contributor-The%20Turing%20Way-blue)
 
 <!--
