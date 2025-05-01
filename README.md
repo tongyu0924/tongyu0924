@@ -3,7 +3,7 @@
 - Name: Chia-Hsuan Hsu (tongyu, @tongyu0924)
 - CSIE @ NTUST  
 - Core Team @ Google Developer Groups (GDG) On Campus NTUST, 2023
-- Passionate about Computer Vision, LLMs, and Open Source Contributions  
+- Passionate about Computer Vision (CV), Large Language Models (LLMs), Multimodal Learning, and open-source contributions.
 
 <!--
 **tongyu0924/tongyu0924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
