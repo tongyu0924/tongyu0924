@@ -11,6 +11,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tongyu0924&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tongyu0924&layout=compact&theme=tokyonight)
 
+## GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=tongyu0924&theme=gruvbox)
+
 <!--
 **tongyu0924/tongyu0924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
