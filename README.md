@@ -1,10 +1,11 @@
 ## Hi there 
 #### About Me
-- Name: Chia-Hsuan Hsu (tongyu, @tongyu0924)
+- Name: Chia-Hsuan Hsu (tongyu, @tongyu0924)  
 - CSIE @ NTUST  
-- Core Team @ Google Developer Groups (GDG) On Campus NTUST, 2023
-- Passionate about Computer Vision (CV), Large Language Models (LLMs), and Multimodal Learning
-- Contribute actively to open-source projects
+- Core Team @ Google Developer Groups (GDG) On Campus NTUST, 2023  
+- Passionate about Computer Vision (CV), Large Language Models (LLMs), and Multimodal Learning  
+- Contribute actively to open-source projects  
+- Currently collaborating on [Spy-Search](https://github.com/JasonHonKL/spy-search), a multimodal research agent platform  
 - Feel free to contact me!
 
 ## GitHub Stats
