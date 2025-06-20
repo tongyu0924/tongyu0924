@@ -1,7 +1,7 @@
 ## Hi there 
 #### About Me
 - Name: Chia-Hsuan Hsu (tongyu, @tongyu0924)  
-- CSIE @ NTUST  
+- CSIE @ NTUST (undergraduate student) 
 - Core Team @ Google Developer Groups (GDG) On Campus NTUST, 2023  
 - Passionate about Computer Vision (CV), Large Language Models (LLMs), and Multimodal Learning
 - Undergraduate researcher @ HIS-LAB (NTUST), Far Eastern Memorial Hospital
