@@ -4,7 +4,7 @@
 - CSIE @ NTUST (undergraduate student) 
 - Core Team @ Google Developer Groups (GDG) On Campus NTUST, 2023  
 - Passionate about Computer Vision (CV), Large Language Models (LLMs), and Multimodal Learning
-- Undergraduate researcher @ HIS-LAB (NTUST), Far Eastern Memorial Hospital
+- Student researcher @ Far Eastern Memorial Hospital
 - Part-time AI engineer @ Toppan Security
 - Currently collaborating on [Spy-Search](https://github.com/JasonHonKL/spy-search), a fast and efficient multimodal research agent platform.
 - Contribute actively to open-source projects 
