@@ -8,7 +8,7 @@
 - Part-time AI engineer @ Toppan Security
 - Currently collaborating on [Spy-Search](https://github.com/JasonHonKL/spy-search), a fast and efficient multimodal research agent platform.
 - Contribute actively to open-source projects 
-- Feel free to contact me!
+- Feel free to contact me. I'm always open to collaboration and meaningful exchange!
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tongyu0924&show_icons=true&theme=tokyonight)
