@@ -1,6 +1,6 @@
 ## 👋 Hi there
 #### About Me
-- Name: Chia-Hsuan Hsu (tongyu, @tongyu0924)  
+- Name: Chia-Hsuan Hsu (winnie, @tongyu0924)  
 - CSIE @ NTUST (undergraduate student, focusing on AI research and system design)  
 - Core Team @ Google Developer Groups (GDG) On Campus NTUST, 2023 & 2024
 - Passionate about Computer Vision (CV), Large Language Models (LLMs), and Multimodal Learning  
