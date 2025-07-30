@@ -2,7 +2,7 @@
 #### About Me
 - Name: Chia-Hsuan Hsu (tongyu, @tongyu0924)  
 - CSIE @ NTUST (undergraduate student, focusing on AI research and system design)  
-- Core Team @ Google Developer Groups (GDG) On Campus NTUST, 2023  
+- Core Team @ Google Developer Groups (GDG) On Campus NTUST, 2023 & 2024
 - Passionate about Computer Vision (CV), Large Language Models (LLMs), and Multimodal Learning  
 - Student researcher @ Far Eastern Memorial Hospital  
 - Part-time AI engineer @ [Toppan Security](https://toppansecurity.com/), a Japanese company specializing in digital identity verification solutions  
