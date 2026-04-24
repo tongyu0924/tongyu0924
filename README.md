@@ -4,10 +4,10 @@
 - CSIE @ NTUST (undergraduate student, focusing on AI research and system design)  
 - Core Team @ Google Developer Groups (GDG) On Campus NTUST, 2023 & 2024
 - Passionate about Computer Vision (CV), Large Language Models (LLMs), and Multimodal Learning  
-- Student researcher @ [Far Eastern Memorial Hospital](https://femhai.vercel.app/)  
-- Part-time AI engineer @ [Toppan Security](https://toppansecurity.com/), a company specializing in digital identity verification solutions  
+- Student researcher @ [Far Eastern Memorial Hospital](https://femhai.vercel.app/)   
 - Currently collaborating on [Spy-Search](https://github.com/JasonHonKL/spy-search), a fast and efficient multimodal research agent platform  
 - Contribute actively to open-source projects
+- Former Part-time AI Engineer @ [Toppan Security](https://toppansecurity.com/), specializing in digital identity verification solutions
 - Previously worked on diffusion-based generative models @ Academia Sinica, and researched camera-based visual localization systems (e.g., VO/SLAM) @ HIS-LAB, NTUST
 - Feel free to contact me. I'm always open to collaboration and meaningful exchange!
 
