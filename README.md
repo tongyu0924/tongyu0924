@@ -1,9 +1,9 @@
 ## 👋 Hi there
 #### About Me
 - Name: Chia-Hsuan Hsu (winnie, @tongyu0924)  
-- CSIE @ NTUST (undergraduate student, focusing on AI research)  
+- CSIE @ NTUST (undergraduate student)  
 - Core Team @ Google Developer Groups (GDG) On Campus NTUST, 2023 & 2024
-- Passionate about Computer Vision (CV), Large Language Models (LLMs), and Multimodal Learning  
+- Passionate about Machine Learning, with a focus on AI Reasoning, Reinforcement Learning, and Multimodal Learning. 
 - Student researcher @ [Far Eastern Memorial Hospital](https://femhai.vercel.app/)   
 - Currently collaborating on [Spy-Search](https://github.com/JasonHonKL/spy-search), a fast and efficient multimodal research agent platform that has garnered 380+ stars and 45+ forks on GitHub.  
 - Contribute actively to open-source projects
