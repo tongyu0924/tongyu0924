@@ -11,7 +11,7 @@
 - Previously worked on diffusion-based generative models @ Academia Sinica, and researched camera-based visual localization systems (e.g., VO/SLAM) @ HIS-LAB, NTUST
 - Feel free to contact me. I'm always open to collaboration and meaningful exchange!
 
-🔗 **[Publications](https://scholar.google.com/citations?user=pWCQKrsAAAAJ)**
+🔗 **[Personal Website](https://tongyu0924.github.io/)**  
 
 <!--
 ## GitHub Stats
