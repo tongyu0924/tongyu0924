@@ -1,7 +1,7 @@
 ## 👋 Hi there
 #### About Me
 - Name: Chia-Hsuan Hsu (winnie, @tongyu0924)  
-- CSIE @ NTUST (undergraduate student)  
+- MS in EE @ NYCU | BS in CSIE @ NTUST
 - Core Team @ Google Developer Groups (GDG) On Campus NTUST, 2023 & 2024
 - Passionate about Machine Learning, with a focus on AI Reasoning, Reinforcement Learning, and Multimodal Learning. 
 - Student researcher @ [Far Eastern Memorial Hospital](https://femhai.vercel.app/)   
