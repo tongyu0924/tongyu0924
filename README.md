@@ -15,14 +15,12 @@
 
 
 
+
 ## GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=tongyu0924&show_icons=true&theme=tokyonight)
 
-<img src="./profile/stats.svg" height="170" />
-<img src="./profile/top-langs.svg" height="170" />
-
-</div>
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=tongyu0924&layout=compact&theme=tokyonight&langs_count=8)
 
 
 
