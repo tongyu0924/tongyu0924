@@ -17,9 +17,9 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=tongyu0924&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=tongyu0924&show_icons=true&theme=tokyonight&cache_seconds=14400&v=2)
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=tongyu0924&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=tongyu0924&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook&cache_seconds=14400&v=2)
 
 
 <!--
