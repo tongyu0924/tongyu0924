@@ -6,7 +6,7 @@
 - Passionate about Machine Learning, with a focus on AI Reasoning, Reinforcement Learning, and Multimodal Learning. 
 - Student researcher @ [Far Eastern Memorial Hospital](https://femhai.vercel.app/)   
 - Currently collaborating on [Spy-Search](https://github.com/JasonHonKL/spy-search), a fast and efficient multimodal research agent platform that has garnered 385+ stars and 48+ forks on GitHub.  
-- Contribute actively to open-source projects
+- Contribute actively to AI/ML open-source projects (20+ PRs merged)
 - Former Part-time AI Engineer @ [Toppan Security](https://toppansecurity.com/), specializing in digital identity verification solutions
 - Previously worked on diffusion-based generative models @ Academia Sinica, and researched camera-based visual localization systems (e.g., VO/SLAM) @ HIS-LAB, NTUST
 - Feel free to contact me. I'm always open to collaboration and meaningful exchange!
